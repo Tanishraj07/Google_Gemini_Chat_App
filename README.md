@@ -1,6 +1,10 @@
 ## Gemini Chat App using Flutter, Google Gemini, and Hive Storage
 
 The Gemini Chat App is a sophisticated messaging application that leverages Flutter for cross-platform development, Google Gemini for AI-powered conversational capabilities, and Hive for efficient local storage. The app provides seamless real-time communication with intelligent response suggestions and robust data management.
+## App Demo
+
+https://github.com/Tanishraj07/Google_Gemini_Chat_App/assets/97394987/f9d4a081-d578-49de-b958-16244f318e8c
+
 ## Key Features
 
 ### Real-Time Messaging
