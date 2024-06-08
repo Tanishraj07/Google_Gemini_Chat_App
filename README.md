@@ -31,6 +31,9 @@ https://github.com/Tanishraj07/Google_Gemini_Chat_App/assets/97394987/f9d4a081-d
 
 ## Screenshot
 
-<img src="assets/Screenshot_20240608_115700.png" alt="Gemini Chat App Screenshot" width="300" />
+<img src="https://github.com/Tanishraj07/Google_Gemini_Chat_App/assets/97394987/369c61c3-ffce-4a50-8ad2-fe6d1a0c2958" alt="[Gemini Chat App Screenshot](https://github.com/Tanishraj07/Google_Gemini_Chat_App/assets/97394987/d9b39e1a-003c-4c98-a6fa-90d22ac625d2)" width="300" />
+
+
+ 
 
 
