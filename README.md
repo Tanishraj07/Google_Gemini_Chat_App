@@ -4,8 +4,6 @@ The Gemini Chat App is a sophisticated messaging application that leverages Flut
 ## App Demo
 
 https://github.com/Tanishraj07/Google_Gemini_Chat_App/assets/97394987/f9d4a081-d578-49de-b958-16244f318e8c
-![Screenshot_20240608_115234](https://github.com/Tanishraj07/Google_Gemini_Chat_App/assets/97394987/369c61c3-ffce-4a50-8ad2-fe6d1a0c2958)
-
 
 ## Key Features
 
@@ -31,6 +29,8 @@ https://github.com/Tanishraj07/Google_Gemini_Chat_App/assets/97394987/f9d4a081-d
 - **Dark Mode:** Switch between light and dark themes for a comfortable chatting experience.
 - **Theme Settings:** Customize the app’s look and feel according to user preferences.
 
+## Screenshot
 
+<img src="https://github.com/Tanishraj07/Google_Gemini_Chat_App/assets/97394987/369c61c3-ffce-4a50-8ad2-fe6d1a0c2958" alt="Gemini Chat App Screenshot" width="300" />
 
 
